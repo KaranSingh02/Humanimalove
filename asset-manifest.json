@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Humanimalove/static/css/main.f58f701b.chunk.css",
-    "main.js": "/Humanimalove/static/js/main.aa8a5190.chunk.js",
-    "main.js.map": "/Humanimalove/static/js/main.aa8a5190.chunk.js.map",
+    "main.css": "/Humanimalove/static/css/main.bbfc65cc.chunk.css",
+    "main.js": "/Humanimalove/static/js/main.d3a0226e.chunk.js",
+    "main.js.map": "/Humanimalove/static/js/main.d3a0226e.chunk.js.map",
     "runtime-main.js": "/Humanimalove/static/js/runtime-main.5e4de016.js",
     "runtime-main.js.map": "/Humanimalove/static/js/runtime-main.5e4de016.js.map",
     "static/css/2.57e0d10b.chunk.css": "/Humanimalove/static/css/2.57e0d10b.chunk.css",
-    "static/js/2.32b33271.chunk.js": "/Humanimalove/static/js/2.32b33271.chunk.js",
-    "static/js/2.32b33271.chunk.js.map": "/Humanimalove/static/js/2.32b33271.chunk.js.map",
+    "static/js/2.b38d1368.chunk.js": "/Humanimalove/static/js/2.b38d1368.chunk.js",
+    "static/js/2.b38d1368.chunk.js.map": "/Humanimalove/static/js/2.b38d1368.chunk.js.map",
     "index.html": "/Humanimalove/index.html",
-    "precache-manifest.1b9b04826fcccaa226014fbac67b91ba.js": "/Humanimalove/precache-manifest.1b9b04826fcccaa226014fbac67b91ba.js",
+    "precache-manifest.741eb93decaf9fe4d248806e97ef92c9.js": "/Humanimalove/precache-manifest.741eb93decaf9fe4d248806e97ef92c9.js",
     "service-worker.js": "/Humanimalove/service-worker.js",
     "static/css/2.57e0d10b.chunk.css.map": "/Humanimalove/static/css/2.57e0d10b.chunk.css.map",
-    "static/css/main.f58f701b.chunk.css.map": "/Humanimalove/static/css/main.f58f701b.chunk.css.map",
-    "static/js/2.32b33271.chunk.js.LICENSE.txt": "/Humanimalove/static/js/2.32b33271.chunk.js.LICENSE.txt",
+    "static/css/main.bbfc65cc.chunk.css.map": "/Humanimalove/static/css/main.bbfc65cc.chunk.css.map",
+    "static/js/2.b38d1368.chunk.js.LICENSE.txt": "/Humanimalove/static/js/2.b38d1368.chunk.js.LICENSE.txt",
     "static/media/abhishek.jpg": "/Humanimalove/static/media/abhishek.81bfb5d0.jpg",
     "static/media/about.jpg": "/Humanimalove/static/media/about.4644c3fc.jpg",
     "static/media/beautiful.jpg": "/Humanimalove/static/media/beautiful.13583a16.jpg",
@@ -38,8 +38,8 @@
   "entrypoints": [
     "static/js/runtime-main.5e4de016.js",
     "static/css/2.57e0d10b.chunk.css",
-    "static/js/2.32b33271.chunk.js",
-    "static/css/main.f58f701b.chunk.css",
-    "static/js/main.aa8a5190.chunk.js"
+    "static/js/2.b38d1368.chunk.js",
+    "static/css/main.bbfc65cc.chunk.css",
+    "static/js/main.d3a0226e.chunk.js"
   ]
 }
