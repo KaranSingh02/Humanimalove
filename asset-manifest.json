@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Humanimalove/static/css/main.05de6a42.chunk.css",
+    "main.css": "/Humanimalove/static/css/main.694a61e2.chunk.css",
     "main.js": "/Humanimalove/static/js/main.a523c8e3.chunk.js",
     "main.js.map": "/Humanimalove/static/js/main.a523c8e3.chunk.js.map",
     "runtime-main.js": "/Humanimalove/static/js/runtime-main.5e4de016.js",
@@ -9,10 +9,10 @@
     "static/js/2.45b666f8.chunk.js": "/Humanimalove/static/js/2.45b666f8.chunk.js",
     "static/js/2.45b666f8.chunk.js.map": "/Humanimalove/static/js/2.45b666f8.chunk.js.map",
     "index.html": "/Humanimalove/index.html",
-    "precache-manifest.52930c80db9d56424b61cc55f576abba.js": "/Humanimalove/precache-manifest.52930c80db9d56424b61cc55f576abba.js",
+    "precache-manifest.b065bfbec29cb63da89874b8db542310.js": "/Humanimalove/precache-manifest.b065bfbec29cb63da89874b8db542310.js",
     "service-worker.js": "/Humanimalove/service-worker.js",
     "static/css/2.fad95789.chunk.css.map": "/Humanimalove/static/css/2.fad95789.chunk.css.map",
-    "static/css/main.05de6a42.chunk.css.map": "/Humanimalove/static/css/main.05de6a42.chunk.css.map",
+    "static/css/main.694a61e2.chunk.css.map": "/Humanimalove/static/css/main.694a61e2.chunk.css.map",
     "static/js/2.45b666f8.chunk.js.LICENSE.txt": "/Humanimalove/static/js/2.45b666f8.chunk.js.LICENSE.txt",
     "static/media/abhishek.jpg": "/Humanimalove/static/media/abhishek.81bfb5d0.jpg",
     "static/media/about.jpg": "/Humanimalove/static/media/about.4644c3fc.jpg",
@@ -37,7 +37,7 @@
     "static/js/runtime-main.5e4de016.js",
     "static/css/2.fad95789.chunk.css",
     "static/js/2.45b666f8.chunk.js",
-    "static/css/main.05de6a42.chunk.css",
+    "static/css/main.694a61e2.chunk.css",
     "static/js/main.a523c8e3.chunk.js"
   ]
 }
