@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Humanimalove/static/css/main.fb4437ae.chunk.css",
-    "main.js": "/Humanimalove/static/js/main.96b5c946.chunk.js",
-    "main.js.map": "/Humanimalove/static/js/main.96b5c946.chunk.js.map",
+    "main.css": "/Humanimalove/static/css/main.f58f701b.chunk.css",
+    "main.js": "/Humanimalove/static/js/main.aa8a5190.chunk.js",
+    "main.js.map": "/Humanimalove/static/js/main.aa8a5190.chunk.js.map",
     "runtime-main.js": "/Humanimalove/static/js/runtime-main.5e4de016.js",
     "runtime-main.js.map": "/Humanimalove/static/js/runtime-main.5e4de016.js.map",
     "static/css/2.57e0d10b.chunk.css": "/Humanimalove/static/css/2.57e0d10b.chunk.css",
-    "static/js/2.b65443df.chunk.js": "/Humanimalove/static/js/2.b65443df.chunk.js",
-    "static/js/2.b65443df.chunk.js.map": "/Humanimalove/static/js/2.b65443df.chunk.js.map",
+    "static/js/2.32b33271.chunk.js": "/Humanimalove/static/js/2.32b33271.chunk.js",
+    "static/js/2.32b33271.chunk.js.map": "/Humanimalove/static/js/2.32b33271.chunk.js.map",
     "index.html": "/Humanimalove/index.html",
-    "precache-manifest.edf15499ee0a1763da20acfc34e1d09a.js": "/Humanimalove/precache-manifest.edf15499ee0a1763da20acfc34e1d09a.js",
+    "precache-manifest.1b9b04826fcccaa226014fbac67b91ba.js": "/Humanimalove/precache-manifest.1b9b04826fcccaa226014fbac67b91ba.js",
     "service-worker.js": "/Humanimalove/service-worker.js",
     "static/css/2.57e0d10b.chunk.css.map": "/Humanimalove/static/css/2.57e0d10b.chunk.css.map",
-    "static/css/main.fb4437ae.chunk.css.map": "/Humanimalove/static/css/main.fb4437ae.chunk.css.map",
-    "static/js/2.b65443df.chunk.js.LICENSE.txt": "/Humanimalove/static/js/2.b65443df.chunk.js.LICENSE.txt",
+    "static/css/main.f58f701b.chunk.css.map": "/Humanimalove/static/css/main.f58f701b.chunk.css.map",
+    "static/js/2.32b33271.chunk.js.LICENSE.txt": "/Humanimalove/static/js/2.32b33271.chunk.js.LICENSE.txt",
     "static/media/abhishek.jpg": "/Humanimalove/static/media/abhishek.81bfb5d0.jpg",
     "static/media/about.jpg": "/Humanimalove/static/media/about.4644c3fc.jpg",
     "static/media/beautiful.jpg": "/Humanimalove/static/media/beautiful.13583a16.jpg",
@@ -25,7 +25,9 @@
     "static/media/inspire.jpg": "/Humanimalove/static/media/inspire.c584413b.jpg",
     "static/media/karan.jpg": "/Humanimalove/static/media/karan.73b04661.jpg",
     "static/media/loveandcare.jpg": "/Humanimalove/static/media/loveandcare.70ac62aa.jpg",
-    "static/media/park.jpeg": "/Humanimalove/static/media/park.2ed472cd.jpeg",
+    "static/media/park1.jpeg": "/Humanimalove/static/media/park1.2ed472cd.jpeg",
+    "static/media/park2.png": "/Humanimalove/static/media/park2.8555f6af.png",
+    "static/media/park3.png": "/Humanimalove/static/media/park3.ba743744.png",
     "static/media/primeicons.css": "/Humanimalove/static/media/primeicons.79432094.woff",
     "static/media/rishabh.jpg": "/Humanimalove/static/media/rishabh.fed26815.jpg",
     "static/media/sambhav.jpg": "/Humanimalove/static/media/sambhav.8874d49f.jpg",
@@ -36,8 +38,8 @@
   "entrypoints": [
     "static/js/runtime-main.5e4de016.js",
     "static/css/2.57e0d10b.chunk.css",
-    "static/js/2.b65443df.chunk.js",
-    "static/css/main.fb4437ae.chunk.css",
-    "static/js/main.96b5c946.chunk.js"
+    "static/js/2.32b33271.chunk.js",
+    "static/css/main.f58f701b.chunk.css",
+    "static/js/main.aa8a5190.chunk.js"
   ]
 }
