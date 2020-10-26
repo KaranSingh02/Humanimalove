@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2fd210a9a2972965ccca6832b77101b6",
+    "revision": "586ef6931b5a4f0bada984a5fe3cfef4",
     "url": "/Humanimalove/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Humanimalove/static/css/2.fad95789.chunk.css"
   },
   {
-    "revision": "a434eec5e7e1fea76405",
-    "url": "/Humanimalove/static/css/main.694a61e2.chunk.css"
+    "revision": "e5f185e5584b033e5d26",
+    "url": "/Humanimalove/static/css/main.fb4437ae.chunk.css"
   },
   {
     "revision": "a0f43966c7d454a47c32",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Humanimalove/static/js/2.45b666f8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a434eec5e7e1fea76405",
+    "revision": "e5f185e5584b033e5d26",
     "url": "/Humanimalove/static/js/main.a523c8e3.chunk.js"
   },
   {
